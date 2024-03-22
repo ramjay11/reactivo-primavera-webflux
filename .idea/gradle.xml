@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Program Files/gradle-7.3.1" />
+        <option name="gradleJvm" value="17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pelicula-resenia-servicio" />
+        <option name="gradleHome" value="C:/Program Files/gradle-7.3.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pelicula-resenia-servicio" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pelicula-servicio" />
+        <option name="gradleHome" value="C:/Program Files/gradle-7.3.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pelicula-servicio" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/peliculas-informacion-servicio" />
+        <option name="gradleHome" value="C:/Program Files/gradle-7.3.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/peliculas-informacion-servicio" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/reactivo-programacion-uso-reactor" />
+        <option name="gradleHome" value="C:/Program Files/gradle-7.3.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/reactivo-programacion-uso-reactor" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
